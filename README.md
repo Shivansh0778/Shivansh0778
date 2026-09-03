@@ -36,12 +36,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shivansh0778&show_icons=true&theme=dark&hide_border=true&title_color=E62429&icon_color=E62429&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shivansh0778&show_icons=true&theme=dark&hide_border=true&title_color=E62429&icon_color=E62429&text_color=ffffff" height="165" />
 <img src="https://streak-stats.demolab.com/?user=Shivansh0778&theme=dark&hide_border=true&ring=E62429&fire=E62429&currStreakLabel=E62429" height="165" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shivansh0778&layout=compact&theme=dark&hide_border=true&title_color=E62429&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh0778&layout=compact&theme=dark&hide_border=true&title_color=E62429&text_color=ffffff" height="165" />
 </div>
 
 <div align="center">
