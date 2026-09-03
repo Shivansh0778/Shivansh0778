@@ -54,7 +54,7 @@
 
 <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Shivansh0778&theme=darkhub&no-frame=true&row=1&column=6&title_color=E62429" />
 
-<!-- 🕸️ Add more badges below as you earn them (certifications, LeetCode, HackerRank, etc.) -->
+<!-- 🕸️ Add more GitHub badges below as you earn them (e.g. GitHub Achievements like Pull Shark, Arctic Code Vault Contributor — screenshot/link them from your profile page) -->
 
 </div>
 
