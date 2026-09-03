@@ -1,76 +1,170 @@
 <div align="center">
-<img src="https://media.giphy.com/media/13d2jHIHxYVdxW/giphy.gif" width="100%" height="200px"/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shivansh+Sharma+%F0%9F%95%B8%EF%B8%8F;With+great+code+comes+great+responsibility;Full+Stack+Developer+%7C+MERN+%2B+SQL" alt="Typing SVG" />
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</div>
 
-### 🕸️ About Me
-- 🎓 B.Tech in Computer Science
-- 💻 Full Stack Developer
-- 🕸️ Building with the **MERN stack**, SQL, Java, and Python
-- 🤖 Exploring AI/ML
+# 🕷️ SHIVANSH0778
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f2a,50:1e3a8a,100:dc2626&height=180&section=header&text=HI,%20I%20AM%20SHIVANSH%20SHARMA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=NEXT%20STOP:%20FULL-STACK%20DEVELOPER&descAlignY=60&descSize=18" width="100%"/>
 
-### 🕷️ Web-Slinging Stack
+<br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=2500&pause=700&color=DC2626&center=true&vCenter=true&width=700&lines=01%20%3E%3E%20HI%2C%20I%20AM%20SHIVANSH%20SHARMA;02%20%3E%3E%20NEXT%20STOP%3A%20MERN%20STACK;03%20%3E%3E%20BUILDING%20THE%20WEB;04%20%3E%3E%20KEEP%20CODING%20%E2%80%A2%20KEEP%20LEARNING" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=E62429)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=E62429)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=E62429)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=E62429)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=E62429)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=E62429)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=E62429)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=E62429)
+<br>
+
+### 🕸️ `FRIENDLY NEIGHBORHOOD DEVELOPER`
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Shivansh0778&label=PROFILE%20VISITS&color=dc2626&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Shivansh0778?label=FOLLOWERS&style=for-the-badge&color=1e3a8a" />
+</p>
 
 </div>
 
+---
+
+## 🚇 NEXT STOP: ABOUT ME
+
+```text
+╔════════════════════════════════════════════════════╗
+║              🚇 DEPARTURE BOARD                   ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  NAME       →  SHIVANSH SHARMA                    ║
+║  ROLE       →  MERN STACK DEVELOPER               ║
+║  STATUS     →  LEARNING & BUILDING                ║
+║  MISSION    →  FULL-STACK DEVELOPMENT             ║
+║  LOCATION   →  INDIA                               ║
+║                                                    ║
+║  NEXT STOP  →  BETTER CODE                         ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+Hi! I'm **Shivansh Sharma**, a **MERN Stack Developer** currently focused on full-stack web development.
+
+I enjoy building web applications, learning how backend and frontend systems work together, and continuously improving my development skills.
+
+> 🕷️ **With great code comes great responsibility.**
+
+---
+
+## 🕷️ MY TECH STACK
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,java,sql" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css" />
+</p>
+
+### 🟢 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🍃 Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 🚉 CURRENTLY BOARDING
+
+```text
+╭──────────────────────────────────────────────╮
+│  TRAIN     : FULL-STACK DEVELOPMENT 🚇      │
+│  PLATFORM  : MERN                            │
+│  STATUS    : LEARNING                       │
+│  DESTINATION: BETTER SOFTWARE                │
+╰──────────────────────────────────────────────╯
+```
+
+* 🔨 Building full-stack applications
+* ⚛️ Working with React & Redux
+* 🟢 Developing REST APIs with Node.js & Express
+* 🍃 Working with MongoDB
+* 🔐 Learning authentication & application security
+* 📚 Continuously improving JavaScript and backend development
+
+---
+
+## 📊 GITHUB STATS
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shivansh0778&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh0778&layout=compact&theme=radical&hide_border=true&border_radius=10" height="180"/>
+
 </div>
 
-### 📊 GitHub Stats
+---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shivansh0778&show_icons=true&theme=dark&hide_border=true&title_color=E62429&icon_color=E62429&text_color=ffffff" height="165" />
-<img src="https://streak-stats.demolab.com/?user=Shivansh0778&theme=dark&hide_border=true&ring=E62429&fire=E62429&currStreakLabel=E62429" height="165" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh0778&layout=compact&theme=dark&hide_border=true&title_color=E62429&text_color=ffffff" height="165" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</div>
-
-### 🏆 Badges & Achievements
+## 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Shivansh0778&theme=darkhub&no-frame=true&row=1&column=6&title_color=E62429" />
-
-<!-- 🕸️ Add more GitHub badges below as you earn them (e.g. GitHub Achievements like Pull Shark, Arctic Code Vault Contributor — screenshot/link them from your profile page) -->
+<img src="https://streak-stats.demolab.com?user=Shivansh0778&theme=radical&hide_border=true&border_radius=10" />
 
 </div>
 
+---
+
+## 🕸️ CONTRIBUTION GRAPH
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivansh0778&theme=redical&hide_border=true" width="100%"/>
+
 </div>
 
-### 🌐 Connect
+---
+
+## 🚇 DEPARTURE BOARD
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E62429)](https://www.linkedin.com/in/shivansh-sharma-6a4291250/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E62429)](mailto:shivanshsharma0778@gmail.com)
+```text
+██████████████████████████████████████████████████
 
-<br/>
+       07  →  18  →  42  →  09  →  77  →  08
 
-<img src="https://komarev.com/ghpvc/?username=Shivansh0778&color=E62429&style=for-the-badge&label=PROFILE+VIEWS" />
+             🕷️ SHIVANSH SHARMA 🕷️
+
+       FULL-STACK DEVELOPER IN PROGRESS
+
+██████████████████████████████████████████████████
+```
+
+### `NEXT STOP → GREAT PROJECTS`
+
+</div>
+
+---
+
+## 🌐 CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Shivansh0778">
+<img src="https://img.shields.io/badge/GitHub-Shivansh0778-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🕷️ `STAY CURIOUS. KEEP BUILDING. KEEP CLIMBING.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:1e3a8a,100:0b0f2a&height=120&section=footer"/>
 
 </div>
