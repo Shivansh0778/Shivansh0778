@@ -1,11 +1,7 @@
 <div align="center">
-
 <img src="https://media.giphy.com/media/13d2jHIHxYVdxW/giphy.gif" width="100%" height="200px"/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shivansh+Sharma+%F0%9F%95%B8%EF%B8%8F;With+great+code+comes+great+responsibility;Full+Stack+Developer+%7C+MERN+%2B+SQL" alt="Typing SVG" />
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
 </div>
 
 ### 🕸️ About Me
@@ -41,11 +37,25 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shivansh0778&show_icons=true&theme=dark&hide_border=true&title_color=E62429&icon_color=E62429&text_color=ffffff" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh0778&theme=dark&hide_border=true&ring=E62429&fire=E62429&currStreakLabel=E62429" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Shivansh0778&theme=dark&hide_border=true&ring=E62429&fire=E62429&currStreakLabel=E62429" height="165" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh0778&layout=compact&theme=dark&hide_border=true&title_color=E62429&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shivansh0778&layout=compact&theme=dark&hide_border=true&title_color=E62429&text_color=ffffff" height="165" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+</div>
+
+### 🏆 Badges & Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shivansh0778&theme=darkhub&no-frame=true&row=1&column=6&title_color=E62429" />
+
+<!-- 🕸️ Add more badges below as you earn them (certifications, LeetCode, HackerRank, etc.) -->
+
 </div>
 
 <div align="center">
